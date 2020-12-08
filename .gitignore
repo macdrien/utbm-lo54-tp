@@ -1,0 +1,6 @@
+*target/
+
+# IDEs folders and files
+.idea
+.vscode
+*.iml
