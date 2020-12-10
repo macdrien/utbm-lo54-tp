@@ -4,3 +4,7 @@
 .idea
 .vscode
 *.iml
+*.project
+*settings/
+*.factorypath
+*.classpath
